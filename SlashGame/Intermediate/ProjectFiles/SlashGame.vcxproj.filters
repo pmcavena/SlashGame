@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\SlashGame.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{FC54F7AA-92C1-480F-8666-9B18EE2565F7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SlashGame.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SlashGameEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{BF7D1942-3A7D-4D60-9EC8-083121AD6831}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\SlashGame">
+			<UniqueIdentifier>{C39D9636-ECDD-4051-B91C-549FED9BB751}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SlashGame\SlashGame.Build.cs">
+			<Filter>Source\SlashGame</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\SlashGame\SlashGame.cpp">
+			<Filter>Source\SlashGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SlashGame\SlashGame.h">
+			<Filter>Source\SlashGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SlashGame\SlashGameCharacter.cpp">
+			<Filter>Source\SlashGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SlashGame\SlashGameCharacter.h">
+			<Filter>Source\SlashGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SlashGame\SlashGameGameMode.cpp">
+			<Filter>Source\SlashGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SlashGame\SlashGameGameMode.h">
+			<Filter>Source\SlashGame</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

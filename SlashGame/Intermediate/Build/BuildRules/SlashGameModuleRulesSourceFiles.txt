@@ -1,0 +1,3 @@
+G:\git\SlashGame\SlashGame\Source\SlashGame\SlashGame.Build.cs
+G:\git\SlashGame\SlashGame\Source\SlashGame.Target.cs
+G:\git\SlashGame\SlashGame\Source\SlashGameEditor.Target.cs
